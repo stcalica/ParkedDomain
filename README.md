@@ -1,14 +1,14 @@
-#Skeleton Site For My Parked Domains or Skeleton for Simple Websites
+# Skeleton Site For My Parked Domains or Skeleton for Simple Websites
 
 
-#Tech
+# Tech
 
 This uses flask and gunicorn to run a webserver
-should use nginx to uptake the actual site however 
+should use nginx to uptake the actual site however
 
 
 
-#Instructions
+# Instructions
 git pull
 
 add in whatever quick content you want
